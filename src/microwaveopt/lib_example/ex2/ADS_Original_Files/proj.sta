@@ -1,0 +1,859 @@
+==============================================================================
+
+                  ------ MOMENTUM STATISTICS (MW mode) ------
+
+              Momentum MomEngine_64 11.40.482 (*) built: Dec  2 2014
+                           Wed Feb 26 09:49:23 2020
+
+==============================================================================
+
+
+------------------------------------------------------------------------------
+MESH
+------------------------------------------------------------------------------
+ Frequency          : 25 GHz
+
+ Rectangular cells  : 62
+ Quadrangular cells : 27
+ Triangular cells   : 11
+ Via cells          : 0
+
+ Edge currents      : 167
+
+------------------------------------------------------------------------------
+SOLVER                        USER TIME      ELAPSED TIME      MEMORY         
+PROCESSES                      (h:m:s)          (h:m:s)         (MB)          
+------------------------------------------------------------------------------
+
+SIMULATION SET-UP
+-----------------
+ Initialization           |     0: 0: 0   |     0: 0: 0   |     23.68   
+ Ports analysis           |     0: 0: 0   |     0: 0: 5   |      1.51   
+ Mesh processing          |     0: 0: 0   |     0: 0: 0   |      2.14   
+
+ Matrix size : 217
+ Reduced matrix size : 188
+ Estimated process size is below 256.00 MB
+
+1. SIMULATION FREQUENCY = 5 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.21   
+ Basis creation           |     0: 0: 0   |     0: 0: 0   |      4.77   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |     31.87   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+2. SIMULATION FREQUENCY = 5.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      6.80   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+3. SIMULATION FREQUENCY = 5.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+4. SIMULATION FREQUENCY = 5.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.16   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+5. SIMULATION FREQUENCY = 5.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.16   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+6. SIMULATION FREQUENCY = 6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+7. SIMULATION FREQUENCY = 6.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.21   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+8. SIMULATION FREQUENCY = 6.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+9. SIMULATION FREQUENCY = 6.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.05   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+10. SIMULATION FREQUENCY = 6.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.04   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+11. SIMULATION FREQUENCY = 7 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.07   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+12. SIMULATION FREQUENCY = 7.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.08   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+13. SIMULATION FREQUENCY = 7.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.05   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+14. SIMULATION FREQUENCY = 7.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+15. SIMULATION FREQUENCY = 7.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+16. SIMULATION FREQUENCY = 8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.47   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+17. SIMULATION FREQUENCY = 8.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+18. SIMULATION FREQUENCY = 8.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+19. SIMULATION FREQUENCY = 8.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.16   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+20. SIMULATION FREQUENCY = 8.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.04   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.45   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+21. SIMULATION FREQUENCY = 9 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.35   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+22. SIMULATION FREQUENCY = 9.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+23. SIMULATION FREQUENCY = 9.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.03   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+24. SIMULATION FREQUENCY = 9.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.17   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+25. SIMULATION FREQUENCY = 9.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+26. SIMULATION FREQUENCY = 10 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 1   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.11   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+27. SIMULATION FREQUENCY = 10.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+28. SIMULATION FREQUENCY = 10.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+29. SIMULATION FREQUENCY = 10.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+30. SIMULATION FREQUENCY = 10.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.04   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.11   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+31. SIMULATION FREQUENCY = 11 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.14   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+32. SIMULATION FREQUENCY = 11.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+33. SIMULATION FREQUENCY = 11.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+34. SIMULATION FREQUENCY = 11.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.16   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.14   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+35. SIMULATION FREQUENCY = 11.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+36. SIMULATION FREQUENCY = 12 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+37. SIMULATION FREQUENCY = 12.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+38. SIMULATION FREQUENCY = 12.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+39. SIMULATION FREQUENCY = 12.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+40. SIMULATION FREQUENCY = 12.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+41. SIMULATION FREQUENCY = 13 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.10   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+42. SIMULATION FREQUENCY = 13.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.03   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+43. SIMULATION FREQUENCY = 13.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.07   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+44. SIMULATION FREQUENCY = 13.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.04   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.02   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+45. SIMULATION FREQUENCY = 13.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.02   
+ S parameters             |     0: 0: 0   |     0: 0: 1   |      0.00   
+
+46. SIMULATION FREQUENCY = 14 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+47. SIMULATION FREQUENCY = 14.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+48. SIMULATION FREQUENCY = 14.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.04   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+49. SIMULATION FREQUENCY = 14.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+50. SIMULATION FREQUENCY = 14.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+51. SIMULATION FREQUENCY = 15 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+52. SIMULATION FREQUENCY = 15.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.16   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+53. SIMULATION FREQUENCY = 15.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+54. SIMULATION FREQUENCY = 15.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+55. SIMULATION FREQUENCY = 15.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.02   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+56. SIMULATION FREQUENCY = 16 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.03   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+57. SIMULATION FREQUENCY = 16.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.01   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+58. SIMULATION FREQUENCY = 16.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.05   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+59. SIMULATION FREQUENCY = 16.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.05   
+ S parameters             |     0: 0: 0   |     0: 0: 1   |      0.00   
+
+60. SIMULATION FREQUENCY = 16.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.05   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+61. SIMULATION FREQUENCY = 17 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+62. SIMULATION FREQUENCY = 17.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+63. SIMULATION FREQUENCY = 17.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.03   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.07   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+64. SIMULATION FREQUENCY = 17.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+65. SIMULATION FREQUENCY = 17.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.09   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+66. SIMULATION FREQUENCY = 18 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.07   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+67. SIMULATION FREQUENCY = 18.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.02   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+68. SIMULATION FREQUENCY = 18.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+69. SIMULATION FREQUENCY = 18.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+70. SIMULATION FREQUENCY = 18.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+71. SIMULATION FREQUENCY = 19 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+72. SIMULATION FREQUENCY = 19.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.02   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+73. SIMULATION FREQUENCY = 19.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.03   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+74. SIMULATION FREQUENCY = 19.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.04   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+75. SIMULATION FREQUENCY = 19.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+76. SIMULATION FREQUENCY = 20 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.06   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+77. SIMULATION FREQUENCY = 20.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.01   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.05   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+78. SIMULATION FREQUENCY = 20.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.09   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+79. SIMULATION FREQUENCY = 20.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.02   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+80. SIMULATION FREQUENCY = 20.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.13   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.13   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+81. SIMULATION FREQUENCY = 21 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+82. SIMULATION FREQUENCY = 21.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+83. SIMULATION FREQUENCY = 21.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+84. SIMULATION FREQUENCY = 21.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+85. SIMULATION FREQUENCY = 21.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+86. SIMULATION FREQUENCY = 22 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+87. SIMULATION FREQUENCY = 22.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+88. SIMULATION FREQUENCY = 22.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+89. SIMULATION FREQUENCY = 22.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+90. SIMULATION FREQUENCY = 22.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+91. SIMULATION FREQUENCY = 23 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 1   |      0.00   
+ Matrix solve             |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+92. SIMULATION FREQUENCY = 23.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+93. SIMULATION FREQUENCY = 23.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+94. SIMULATION FREQUENCY = 23.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+95. SIMULATION FREQUENCY = 23.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+96. SIMULATION FREQUENCY = 24 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+97. SIMULATION FREQUENCY = 24.2 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+98. SIMULATION FREQUENCY = 24.4 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+99. SIMULATION FREQUENCY = 24.6 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 1   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+100. SIMULATION FREQUENCY = 24.8 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 1   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+101. SIMULATION FREQUENCY = 25 GHz 
+-------------------------
+ Green functions          |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Port calibration         |     0: 0: 1   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+
+------------------------------------------------------------------------------
+TOTALS
+------------------------------------------------------------------------------
+ Nr of Frequencies   : 101 
+
+ Physical memory :    75.90 MB
+ Virtual memory  :    62.66 MB
+ Page faults     :      403396
+ User Time       :    0h 2m 0s
+ Elapsed Time    :    0h 0m31s
+
+==============================================================================
+

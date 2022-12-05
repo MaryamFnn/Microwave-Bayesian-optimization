@@ -1,0 +1,73 @@
+CITIFILE A.01.01
+#Momentum: B.11.40.482 (*) built: Dec  2 2014 
+#Momentum Date and Time: Wed May 11 09:49:43 2022
+
+NAME PortSet1/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+CONSTANT NBR_OF_PORTS 2
+
+VAR freq MAG 4
+
+DATA GAMMA_1[1] RI
+DATA Z0_1[1,1] RI
+DATA LAMBADAI_1[1,1] RI
+
+VAR_LIST_BEGIN
+	 1000000000
+	 2166666667
+	 3333333333
+	 4500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 26.00800061
+	 0,	 56.35066799
+	 0,	 86.69333537
+	 0,	 117.0360027
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END
+CITIFILE A.01.01
+NAME PortSet2/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_1[1] RI
+DATA Z0_1[1,1] RI
+DATA LAMBADAI_1[1,1] RI
+
+VAR_LIST_BEGIN
+	 1000000000
+	 2166666667
+	 3333333333
+	 4500000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 26.00800061
+	 0,	 56.35066799
+	 0,	 86.69333537
+	 0,	 117.0360027
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+	 0 ,	 0 
+END

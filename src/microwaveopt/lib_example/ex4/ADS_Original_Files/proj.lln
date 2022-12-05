@@ -1,0 +1,12 @@
+BEGIN_SUBSTRATE
+4 __SubstrateLayer1
+3 __SubstrateLayer2
+2 __SubstrateLayer3
+1 __SubstrateLayer4
+0 __TOP
+END_SUBSTRATE
+BEGIN_MASK
+17 pc2
+16 pc1
+2 cond2
+END_MASK

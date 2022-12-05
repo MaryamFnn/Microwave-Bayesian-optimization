@@ -1,0 +1,13 @@
+numpy~=1.19.5
+microwaveopt~=0.1
+gpflow~=2.2.1
+tensorflow~=2.7.0
+tensorflow-gpu~=2.7.0
+matplotlib~=3.5.1
+ipython~=8.1.1
+scipy~=1.8.0
+six~=1.15.0
+nbformat~=5.2.0
+nbconvert~=6.4.4
+setuptools~=60.8.2
+shapely~=1.8.0

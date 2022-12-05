@@ -1,0 +1,39 @@
+
+hpeesofsim (*) 551.shp Oct 27 2021, MINT version 5
+    (64-bit linux built: Thu Oct 28, 2021 04:44:59 +0000)
+
+
+***** Simulation started at Fri, May 20 2022 14:52:29 +0200
+      Running on host: "dell-Lat-5501"
+      In Directory: "/mnt/402C068F2C067FE0/Users/fgarb/Documents/PycharmProjects/MicrowaveOpt/microwaveopt/lib_example/ex10/ADS_workdir"
+      User: "federico", Process ID: 85749
+
+Parsing the netlist ...
+Flattening the netlist ...
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with no DC path to ground (topology corrected): 4
+
+
+COMPONENT : CLin2
+    Characterizing to 160 GHz 
+Pt DC convergence is used.
+
+.
+
+
+TRAN Tran1[1] <netlist.log>   time=(1 ns->5 ns)
+
+Checking for unresolved variables ...
+Flushing data (please wait) ...
+     ... data flush done.
+
+Resource usage:
+    User time                 =     2.42 seconds.
+    System time               =     0.29 seconds.
+    Total CPU time            =     2.71 seconds.
+    Total stopwatch time      =     0.70 seconds.
+
+    Physical memory used: 128 MBytes.
+    Incremental virtual memory (data only) used:  35.7 MBytes.
+

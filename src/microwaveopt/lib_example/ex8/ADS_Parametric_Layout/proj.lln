@@ -1,0 +1,8 @@
+BEGIN_SUBSTRATE
+0 __TOP
+1 __ExpandLayer__TOP_3
+2 __SubstrateLayer1
+END_SUBSTRATE
+BEGIN_MASK
+1 cond
+END_MASK

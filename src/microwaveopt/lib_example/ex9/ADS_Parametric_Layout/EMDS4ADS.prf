@@ -1,0 +1,57 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  E:/users/default/Momentum/Slot_dipole_wrk/simulation/Slot_dipole_lib/dipole/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __TOP    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material slot_mask_3    0.0000000000000000e+000     0.0000000000000000e+000     8.0392156862745101e-001  
+  Material __SubstrateLayer4    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material __SubstrateLayer2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material __BOTTOM    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __BOTTOM_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __SubstrateLayer2_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __SubstrateLayer4_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __TOP_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object slot_mask_3_2    0.0000000000000000e+000     0.0000000000000000e+000     8.0392156862745101e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __BOTTOM_2 1  0  0  
+  Object __SubstrateLayer2_2 1  0  0  
+  Object __SubstrateLayer4_2 1  0  0  
+  Object __TOP_2 1  0  0  
+  Object slot_mask_3_2 1  0  0  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    1.4356616210937500e+002    -1.3720610046386719e+002     1.5055120849609375e+002  
+  Target    0.0000000000000000e+000     6.3599996566772461e+000     6.9850001335144043e+000  
+  Up   -4.0825006365776062e-001     4.0825030207633972e-001     8.1650000810623169e-001  
+     9.9465583801269531e+001     9.9465583801269531e+001  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

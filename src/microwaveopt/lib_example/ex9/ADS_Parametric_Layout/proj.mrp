@@ -1,0 +1,13 @@
+Parse Error: Tech Input proj.ltd:
+- line 11 : syntax error, unexpected TEXT.
+Is TEMPERATURE a valid keyword and correctly spelled ?
+
+ERROR: Invalid UNITS format.
+Parse Error: Tech Input proj.ltd:
+- line 11 : syntax error, unexpected TEXT.
+Is TEMPERATURE a valid keyword and correctly spelled ?
+
+ERROR: Invalid UNITS format.
+Using the minimal snap distance of 0.004 mm
+(4 layout resolution points) for layout healing.
+Generating mesh at 6 GHz...

@@ -1,0 +1,62 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  C:/Users/Administrator/Documents/bend_1/bend_Celina_wrk/simulation/bend_Celina_lib/bend_s015/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __TOP    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material __SubstrateLayer1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Material __BOTTOM    0.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_1    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Object __TOP_2    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Object __TOP_3    1.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  Object cond_5    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_6    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_7    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_8    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object __BOTTOM_4    0.0000000000000000e+000     0.0000000000000000e+000     1.0000000000000000e+000  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_1 1  0  25  
+  Object __TOP_2 1  0  25  
+  Object __TOP_3 1  0  25  
+  Object cond_5 1  0  25  
+  Object cond_6 1  0  25  
+  Object cond_7 1  0  25  
+  Object cond_8 1  0  25  
+  Object __BOTTOM_4 1  0  25  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    2.5393939208984375e+002    -2.2122395324707031e+002     2.2586511230468750e+002  
+  Target    4.3598594665527344e+001    -1.0883138656616211e+001     1.5524333953857422e+001  
+  Up   -4.0824857354164124e-001     4.0824827551841736e-001     8.1649714708328247e-001  
+     1.0304552459716797e+002     1.0304552459716797e+002  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

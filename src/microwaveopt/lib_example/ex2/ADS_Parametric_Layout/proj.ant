@@ -1,0 +1,19 @@
+#Momentum: B.11.40.482 (*) built: Dec  2 2014 
+#Momentum Date and Time: Wed Dec  1 14:47:22 2021
+
+# Antenna Parameters name : proj.ant
+
+Excitation 1
+Frequency 25 GHz
+Maximum radiation intensity 8.572576453e-07
+Angle of U_max 74.46656646 360
+E_theta_max 0.025414741 ; E_phi_max 3.022828544e-05
+E_theta_max 0.01038995784 0.02319391808
+E_phi_max -3.7499737e-07 3.022595933e-05
+Ex_max 0.00278243729 0.006211345951
+Ey_max -3.7499737e-07 3.022595933e-05
+Ez_max -0.01001045786 -0.02234674512
+Power radiated 1 1.533365892e-06
+Effective angle 1.788687333 steradians 44.33044087 degrees 
+Directivity 8.466754325 dB
+Gain -6.802938734 dB
